@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android ImageView</string>
+    <string name="load_image_from_drawable">Load image from drawable</string>
+    <string name="load_image_from_sdcard">Load image from sdcard</string>
+    <string name="load_image_from_url">Load image from url</string>
+    <string name="scaleType_fit_xy">Scale type - FIT_XY</string>
+    <string name="scaleType_fit_start">Scale type - FIT_START</string>
+    <string name="scaleType_fit_end">Scale type - FIT_END</string>
+    <string name="scaleType_fit_center">Scale type - FIT_CENTER</string>
+    <string name="scaleType_center_crop">Scale type - CENTER_CROP</string>
+    <string name="scaleType_center">Scale type - CENTER</string>
+    <string name="scaleType_center_inside">Scale type - CENTER_INSIDE</string>
+    <string name="scaleType_matrix">Scale type - MATRIX</string>
+    <string name="animate">Animate</string>
+</resources>
